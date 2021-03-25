@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damonmohammadbagher&show_icons=true&theme=dark)
 -----------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damonmohammadbagher&layout=compact&theme=dark)](https://github.com/damonmohammadbagher/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damonmohammadbagher&layout=compact&theme=dark&hide=javascript,css)](https://github.com/damonmohammadbagher/github-readme-stats)
 
 
 
