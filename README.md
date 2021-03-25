@@ -1,7 +1,7 @@
 Damon Mohammadbagher
 --------------------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damonmohammadbagher&show_icons=false&theme=dark&hide=prs,issues,contribs)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damonmohammadbagher&layout=compact&theme=dark&hide=javascript,css,html)](https://github.com/damonmohammadbagher/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damonmohammadbagher&show_icons=false&theme=dark&hide=prs,issues,contribs&hide_border=true&bg_color=GRA,333300,41b003,003300)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damonmohammadbagher&layout=compact&theme=dark&hide=javascript,css,html&bg_color=DEG,003300,333300,333333)](https://github.com/damonmohammadbagher/github-readme-stats)
 
 
 
